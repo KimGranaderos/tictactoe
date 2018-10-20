@@ -1,0 +1,22 @@
+C:\Users\Administrator\Downloads\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+C:\Users\Administrator\Downloads\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+C:\Users\Administrator\Downloads\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+C:\Users\Administrator\Downloads\tictactoe\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+C:\Users\Administrator\Downloads\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+C:\Users\Administrator\Downloads\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+C:\Users\Administrator\Downloads\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+C:\Users\Administrator\Downloads\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+C:\Users\Administrator\Downloads\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
+C:\Users\Administrator\Downloads\tictactoe\tictactoe\obj\Debug\tictactoe.Form2.resources
+D:\prolans project\tictactoe\tictactoe\bin\Debug\tictactoe.exe.config
+D:\prolans project\tictactoe\tictactoe\bin\Debug\tictactoe.exe
+D:\prolans project\tictactoe\tictactoe\bin\Debug\tictactoe.pdb
+D:\prolans project\tictactoe\tictactoe\obj\Debug\tictactoe.csprojAssemblyReference.cache
+D:\prolans project\tictactoe\tictactoe\obj\Debug\tictactoe.Form1.resources
+D:\prolans project\tictactoe\tictactoe\obj\Debug\tictactoe.Form2.resources
+D:\prolans project\tictactoe\tictactoe\obj\Debug\tictactoe.Properties.Resources.resources
+D:\prolans project\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.GenerateResource.cache
+D:\prolans project\tictactoe\tictactoe\obj\Debug\tictactoe.csproj.CoreCompileInputs.cache
+D:\prolans project\tictactoe\tictactoe\obj\Debug\tictactoe.exe
+D:\prolans project\tictactoe\tictactoe\obj\Debug\tictactoe.pdb
